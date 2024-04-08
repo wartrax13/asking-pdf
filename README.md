@@ -1,4 +1,4 @@
-# Langchain Asking to PDF (Tutorial)
+# Langchain Perguntando ao PDF (Tutorial)
 
 Esta é uma aplicação em Python que permite carregar um PDF e fazer perguntas sobre ele usando linguagem natural. A aplicação usa um LLM para gerar uma resposta sobre seu PDF. O LLM não responderá a perguntas não relacionadas ao documento.
 
